@@ -11,7 +11,7 @@
 ## 🚀 About Me
 - 🎓 B.Tech CSE (CGPA: 8.4)
 - 💻 Backend Developer specializing in Spring Boot & REST APIs
-- 🧠 Solved 3000+ DSA problems on LeetCode
+- 🧠 Solved 300+ DSA problems on LeetCode
 - ⚡ Passionate about scalable and production-ready systems
 
 ---
